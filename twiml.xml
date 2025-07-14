@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Start>
+    <Stream url="wss://api.elevenlabs.io/v1/convai/stream/agent_01k04kbk7kfrcadwsna12nqa5a" />
+  </Start>
+  <Say>Hello! This is your ElevenLabs agent speaking.</Say>
+</Response>
