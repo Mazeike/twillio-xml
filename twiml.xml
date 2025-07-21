@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Start>
-    <Stream url="wss://api.elevenlabs.io/v1/convai/stream/agent_01k04kbk7kfrcadwsna12nqa5a/audio-stream" />
+    <Stream url="wss://api.elevenlabs.io/v1/convai/stream" />
   </Start>
-  <Say voice="alice">Connecting you to your AI assistant...</Say>
+  <Pause length="60" />
 </Response>
